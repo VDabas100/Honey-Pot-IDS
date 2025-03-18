@@ -7,7 +7,7 @@ import pyfiglet
 from termcolor import colored
 from tqdm import tqdm
 
-# Configure Logging
+
 logging.basicConfig(filename="honeypot.log", level=logging.INFO,
                     format="%(asctime)s - %(levelname)s - %(message)s")
 
