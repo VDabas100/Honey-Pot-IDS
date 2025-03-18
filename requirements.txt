@@ -1,0 +1,4 @@
+pyfiglet==0.8.post1
+tqdm==4.65.0
+termcolor==2.1.0
+
