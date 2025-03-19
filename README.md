@@ -21,11 +21,11 @@ A Python-based Honeypot IDS designed to simulate a fake system for detecting and
 
 •Libraries:
 
-   •pyfiglet for ASCII banner displays
+          •pyfiglet for ASCII banner displays
 
-   •termcolor for terminal output with color coding
+          •termcolor for terminal output with color coding
    
-   •tqdm for real-time progress bars
+          •tqdm for real-time progress bars
 
 •Network Programming: Socket programming for simulating network services and monitoring ports.
 
