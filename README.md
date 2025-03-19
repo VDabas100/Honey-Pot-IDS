@@ -20,8 +20,11 @@ A Python-based Honeypot IDS designed to simulate a fake system for detecting and
 •Programming Language: Python 3.x
 
 •Libraries:
+
    •pyfiglet for ASCII banner displays
+
    •termcolor for terminal output with color coding
+   
    •tqdm for real-time progress bars
 
 •Network Programming: Socket programming for simulating network services and monitoring ports.
