@@ -5,6 +5,7 @@ A Python-based Honeypot IDS designed to simulate a fake system for detecting and
 # Key Features:
 
 •Port Simulation: Simulates multiple service ports (e.g., FTP, SSH, HTTP) to mimic real-world network services.        
+
 •Attack Detection & Logging: Detects and logs attack attempts, capturing detailed information such as attacker IPs and accessed ports.                                                                                       
 
 
